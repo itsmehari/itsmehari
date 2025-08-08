@@ -7,7 +7,7 @@
   ###  A Bit About Me
   
   - Self-taught web designer and developer with **14+ years of experience** in graphic design, web & app design, and creative entrepreneurship :contentReference[oaicite:1]{index=1}  
-  - Based in **Chennai, Tamil Nadu**; skilled across design, front-end development, and emerging tech :contentReference[oaicite:2]{index=2}  
+  - Based in **Chennai, Tamil Nadu**; skilled across design, front-end development, and emerging tech 
   - Driven by a deep-rooted belief in learning, resilience, and the endless possibilities of code & design
   
   ---
